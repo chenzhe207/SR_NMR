@@ -7,7 +7,8 @@ Pattern Recognition Letters 2019(Accepted)
 
 If you have any questions about this code, feel free to reach me (jnu_cz@stu.jiangnan.edu.cn) 
 
-
+### Experimental result
+![](https://github.com/chenzhe207/SR_NMR/blob/master/result_1.png)
 
 # Citation
 
