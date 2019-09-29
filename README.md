@@ -9,7 +9,7 @@ If you have any questions about this code, feel free to reach me (jnu_cz@stu.jia
 ### Framework
 
 
-https://github.com/chenzhe207/SR_NMR/blob/master/framework.png
+![](https://github.com/chenzhe207/SR_NMR/blob/master/framework.png)
 
 ### Experimental result
 
