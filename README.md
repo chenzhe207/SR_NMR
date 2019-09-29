@@ -13,7 +13,7 @@ If you have any questions about this code, feel free to reach me (jnu_cz@stu.jia
 
 For paper:
 
-*** Z. Chen, X.-J. Wu, J. Kittler, A sparse regularized nuclear norm based matrix regression for face recognition with contiguous occlusion, Pattern Recognition Letters 125 (2019) 494–499. ***
+* Z. Chen, X.-J. Wu, J. Kittler, A sparse regularized nuclear norm based matrix regression for face recognition with contiguous occlusion, Pattern Recognition Letters 125 (2019) 494–499. *
 
 For code:
 ```
