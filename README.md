@@ -11,7 +11,7 @@ If you have any questions about this code, feel free to reach me (jnu_cz@stu.jia
 
 ![](https://github.com/chenzhe207/SR_NMR/blob/master/framework.png)
 
-### Experimental result
+### Experimental results
 
 ![](https://github.com/chenzhe207/SR_NMR/blob/master/result_2.png)
 
